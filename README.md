@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated: March 2, 2026**
+**Last updated: March 19, 2026**
 
-This Privacy Policy applies to the wallpaper applications developed by **La Vĩnh Phát** and published under the SwAutoma brand, including:
+This Privacy Policy applies to the wallpaper applications developed by **Phát La** and published under the SwAutoma brand, including:
 
 - [S8 Infinity Wallpaper](https://play.google.com/store/apps/details?id=com.swautoma.wallpaper.infinitys8)
 - [N8 Infinity Wallpaper](https://play.google.com/store/apps/details?id=com.swautoma.wallpaper.infinityn8)
@@ -22,7 +22,11 @@ The applications do not require user registration and do not collect personal in
 - Email address  
 - Phone number  
 - Home address  
-- Payment information  
+
+**Payment Information:**
+- Only **Galaxy Infinity Wallpaper** offers in-app purchases.
+- All payments are processed securely through Google Play.
+- The developer does not collect, store, or have access to users' payment details such as credit card numbers or billing information.
 
 However, the applications may use third-party services (listed below) that automatically collect limited technical and device-related information for crash reporting and advertising.
 
@@ -82,6 +86,7 @@ Some technical and device-related data may be processed by Google services used 
 
 - Google AdMob (for ads, if enabled in an app)
 - Firebase Crashlytics (for crash reporting)
+- Google Play Billing (only in Galaxy Infinity Wallpaper, for processing in-app purchases)
 
 These services process data according to their own privacy policies.
 
@@ -115,7 +120,7 @@ This Privacy Policy may be updated from time to time. Updates will be posted on 
 
 If you have any questions regarding this Privacy Policy, please contact:
 
-**La Vĩnh Phát**  
+**Phát La**  
 Email: phat.lavinh@gmail.com
 
 ---
